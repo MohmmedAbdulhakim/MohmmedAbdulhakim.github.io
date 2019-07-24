@@ -405,7 +405,7 @@ canvas{
     font-family: light;
     font-size: 4vw;
     margin: 0 auto;
-    line-height: 15vw;
+    line-height: 6vw;
 }
 
 /*==================================
@@ -1180,9 +1180,9 @@ footer p {
 
 .abouttext p {
     font-family: light;
-    font-size: 1.8vw;
+    font-size: 1.5vw;
     margin: 0 auto;
-    line-height: 37px;
+    line-height: 45px;
 }
  
  /*==================================
